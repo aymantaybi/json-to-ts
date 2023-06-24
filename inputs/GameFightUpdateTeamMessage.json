@@ -1,0 +1,1 @@
+{"_messageType":"GameFightUpdateTeamMessage","fightId":35,"team":{"_type":"FightTeamInformations","teamId":1,"leaderId":-1,"teamSide":-1,"teamTypeId":1,"teamMembers":[{"_type":"FightTeamMemberMonsterInformations","id":-1,"monsterId":63,"grade":2}]},"_isInitialized":true}
